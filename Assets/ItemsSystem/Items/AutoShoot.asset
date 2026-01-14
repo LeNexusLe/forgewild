@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0bed0ec4573244e8d6813221b8f078, type: 3}
+  m_Name: AutoShoot
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  itemName: Auto Bow
+  icon: {fileID: 21300000, guid: 6d3aeb6dc93558c4c949a1375860a7db, type: 3}
+  weight: 10
+  rarity: 2
+  statModifiers: []
+  specialEffects:
+  - {fileID: 11400000, guid: ba096e8d063d2614ab4955a52a8e7296, type: 2}

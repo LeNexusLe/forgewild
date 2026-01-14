@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: a783c436be5478a41bb5d55629338905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7054893855595656976
+    second: Attack_magic_0
+  - first:
+      213: 3605621621803640944
+    second: Attack_magic_1
+  - first:
+      213: 438556384547664078
+    second: Attack_magic_2
+  - first:
+      213: 4044330997292479085
+    second: Attack_magic_3
+  - first:
+      213: 5336673836078885478
+    second: Attack_magic_4
+  - first:
+      213: -6397268414276541412
+    second: Attack_magic_5
+  - first:
+      213: 8620549616513542535
+    second: Attack_magic_6
+  - first:
+      213: -2117403582573335523
+    second: Attack_magic_7
+  - first:
+      213: -5916338482990039188
+    second: Attack_magic_8
+  - first:
+      213: -2245070218136689027
+    second: Attack_magic_9
+  - first:
+      213: 603101344551982791
+    second: Attack_magic_10
+  - first:
+      213: 6768128382727925002
+    second: Attack_magic_11
+  - first:
+      213: 712822926521763751
+    second: Attack_magic_12
+  - first:
+      213: -9115008050856385571
+    second: Attack_magic_13
+  - first:
+      213: 6043033971299012540
+    second: Attack_magic_14
+  - first:
+      213: 9099364586959562701
+    second: Attack_magic_15
+  - first:
+      213: -5478094289374649838
+    second: Attack_magic_16
+  - first:
+      213: 4060448613618650613
+    second: Attack_magic_17
+  - first:
+      213: 2981110976251284100
+    second: Attack_magic_18
+  - first:
+      213: 7992095749447765564
+    second: Attack_magic_19
+  - first:
+      213: 4906626408472013367
+    second: Attack_magic_20
+  - first:
+      213: 9148596802449075412
+    second: Attack_magic_21
+  - first:
+      213: 1087615263634706247
+    second: Attack_magic_22
+  - first:
+      213: -2756240657436118430
+    second: Attack_magic_23
+  - first:
+      213: 7900022387821068894
+    second: Attack_magic_24
+  - first:
+      213: 4832285769815454087
+    second: Attack_magic_25
+  - first:
+      213: 3816124650727299806
+    second: Attack_magic_26
+  - first:
+      213: -8549492055693941316
+    second: Attack_magic_27
+  - first:
+      213: -6344821127956408341
+    second: Attack_magic_28
+  - first:
+      213: -4595499311907355195
+    second: Attack_magic_29
+  - first:
+      213: 8754655857706075718
+    second: Attack_magic_30
+  - first:
+      213: -3401693185102074553
+    second: Attack_magic_31
+  - first:
+      213: 6829747611838114965
+    second: Attack_magic_32
+  - first:
+      213: 5616028092685318401
+    second: Attack_magic_33
+  - first:
+      213: 722138863163110661
+    second: Attack_magic_34
+  - first:
+      213: -179463466023179426
+    second: Attack_magic_35
+  - first:
+      213: -6367645470753355144
+    second: Attack_magic_36
+  - first:
+      213: -5389140400061539099
+    second: Attack_magic_37
+  - first:
+      213: -1164436267358276531
+    second: Attack_magic_38
+  - first:
+      213: -3013346883555441684
+    second: Attack_magic_39
+  - first:
+      213: -7989266559926003969
+    second: Attack_magic_40
+  - first:
+      213: 9122057418046214132
+    second: Attack_magic_41
+  - first:
+      213: -793960825120630149
+    second: Attack_magic_42
+  - first:
+      213: 6442385034434000013
+    second: Attack_magic_43
+  - first:
+      213: -5341279202407777631
+    second: Attack_magic_44
+  - first:
+      213: 8506463673572691319
+    second: Attack_magic_45
+  - first:
+      213: 2836872815230355359
+    second: Attack_magic_46
+  - first:
+      213: -4371938644444174539
+    second: Attack_magic_47
+  - first:
+      213: 2062683491700056487
+    second: Attack_magic_48
+  - first:
+      213: 8547462699781336295
+    second: Attack_magic_49
+  - first:
+      213: 1338366392664521832
+    second: Attack_magic_50
+  - first:
+      213: -4858735469083149470
+    second: Attack_magic_51
+  - first:
+      213: -2219561893863665226
+    second: Attack_magic_52
+  - first:
+      213: 1656907486765296726
+    second: Attack_magic_53
+  - first:
+      213: 6420703724543037122
+    second: Attack_magic_54
+  - first:
+      213: 5298799226512291747
+    second: Attack_magic_55
+  - first:
+      213: 238428639475839200
+    second: Attack_magic_56
+  - first:
+      213: 8465606123058112930
+    second: Attack_magic_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack_magic_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88221ba6bf71e90800000000000000
+      internalID: -7054893855595656976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e21af2cdb90230800000000000000
+      internalID: 3605621621803640944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 144
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec071fa45b0161600800000000000000
+      internalID: 438556384547664078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6238bf3d99502830800000000000000
+      internalID: 4044330997292479085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 206
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a6a99349caf0a40800000000000000
+      internalID: 5336673836078885478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 78
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14683a75465837a0800000000000000
+      internalID: -6397268414276541412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 142
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896becd33852a770800000000000000
+      internalID: 8620549616513542535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 14
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ca39ef8a87d92e0800000000000000
+      internalID: -2117403582573335523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fb76eee71f4eda0800000000000000
+      internalID: -5916338482990039188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 76
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7667201888e7d0e0800000000000000
+      internalID: -2245070218136689027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 140
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d49d3a75ae5800800000000000000
+      internalID: 603101344551982791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dacbea7e83ded50800000000000000
+      internalID: 6768128382727925002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 93
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7851bcca474e900800000000000000
+      internalID: 712822926521763751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd321eb987cf08180800000000000000
+      internalID: -9115008050856385571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 141
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf45e8216b2dd350800000000000000
+      internalID: 6043033971299012540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 13
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76e7f91ef674e70800000000000000
+      internalID: 9099364586959562701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126abb9446e9f3b0800000000000000
+      internalID: -5478094289374649838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 205
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd877b308c995830800000000000000
+      internalID: 4060448613618650613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 77
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac97763a80f5920800000000000000
+      internalID: 2981110976251284100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 151
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4ebc7db0a9ee60800000000000000
+      internalID: 7992095749447765564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 25
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a668ad8b6d71440800000000000000
+      internalID: 4906626408472013367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 89
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc604b025856fe70800000000000000
+      internalID: 9148596802449075412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 215
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f4d31e15cf71f00800000000000000
+      internalID: 1087615263634706247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 87
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f70aa9bddfb9d0800000000000000
+      internalID: -2756240657436118430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 151
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5245bf618482ad60800000000000000
+      internalID: 7900022387821068894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 23
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781760b1e4abf0340800000000000000
+      internalID: 4832285769815454087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 215
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda5631b62995f430800000000000000
+      internalID: 3816124650727299806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 85
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a652c54a1a5980800000000000000
+      internalID: -8549492055693941316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 149
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d3c8eccaa2f7a0800000000000000
+      internalID: -6344821127956408341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 21
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5c53c49b18930c0800000000000000
+      internalID: -4595499311907355195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 213
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6460d515e19ce7970800000000000000
+      internalID: 8754655857706075718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 85
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74daf133212cac0d0800000000000000
+      internalID: -3401693185102074553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 151
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cee25744328ce50800000000000000
+      internalID: 6829747611838114965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 21
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097f199bc320fd40800000000000000
+      internalID: 5616028092685318401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 19
+        width: 57
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057751587d850a00800000000000000
+      internalID: 722138863163110661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_35
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 81
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2781bdea628df0800000000000000
+      internalID: -179463466023179426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 168
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0f1c7e2491a7a0800000000000000
+      internalID: -6367645470753355144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 209
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec10a9eb5de535b0800000000000000
+      internalID: -5389140400061539099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 146
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d443780626717dfe0800000000000000
+      internalID: -1164436267358276531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 17
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3c5ac89f07e26d0800000000000000
+      internalID: -3013346883555441684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff614b7846c602190800000000000000
+      internalID: -7989266559926003969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_41
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 153
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8c5714ee089e70800000000000000
+      internalID: 9122057418046214132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adb1d06d84bf4f0800000000000000
+      internalID: -793960825120630149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843bbb3e03f76950800000000000000
+      internalID: 6442385034434000013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 228
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7d4e5dd6ffd5b0800000000000000
+      internalID: -5341279202407777631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_45
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d801654a70d0670800000000000000
+      internalID: 8506463673572691319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 172
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9784c88bc89e5720800000000000000
+      internalID: 2836872815230355359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_47
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372a1667f0c353c0800000000000000
+      internalID: -4371938644444174539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a128d605bf10ac10800000000000000
+      internalID: 2062683491700056487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_49
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec2e5ff900be9670800000000000000
+      internalID: 8547462699781336295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cf616a425d29210800000000000000
+      internalID: 1338366392664521832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b35b365dd429cb0800000000000000
+      internalID: -4858735469083149470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_52
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 15
+        width: 92
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1534f97388231e0800000000000000
+      internalID: -2219561893863665226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca45e94948ef610800000000000000
+      internalID: 1656907486765296726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_54
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 172
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce4a65e40cea1950800000000000000
+      internalID: 6420703724543037122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7316082dd198940800000000000000
+      internalID: 5298799226512291747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_56
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0bc3895911f4300800000000000000
+      internalID: 238428639475839200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_magic_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9204d8aefdb7570800000000000000
+      internalID: 8465606123058112930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack_magic_0: -7054893855595656976
+      Attack_magic_1: 3605621621803640944
+      Attack_magic_10: 603101344551982791
+      Attack_magic_11: 6768128382727925002
+      Attack_magic_12: 712822926521763751
+      Attack_magic_13: -9115008050856385571
+      Attack_magic_14: 6043033971299012540
+      Attack_magic_15: 9099364586959562701
+      Attack_magic_16: -5478094289374649838
+      Attack_magic_17: 4060448613618650613
+      Attack_magic_18: 2981110976251284100
+      Attack_magic_19: 7992095749447765564
+      Attack_magic_2: 438556384547664078
+      Attack_magic_20: 4906626408472013367
+      Attack_magic_21: 9148596802449075412
+      Attack_magic_22: 1087615263634706247
+      Attack_magic_23: -2756240657436118430
+      Attack_magic_24: 7900022387821068894
+      Attack_magic_25: 4832285769815454087
+      Attack_magic_26: 3816124650727299806
+      Attack_magic_27: -8549492055693941316
+      Attack_magic_28: -6344821127956408341
+      Attack_magic_29: -4595499311907355195
+      Attack_magic_3: 4044330997292479085
+      Attack_magic_30: 8754655857706075718
+      Attack_magic_31: -3401693185102074553
+      Attack_magic_32: 6829747611838114965
+      Attack_magic_33: 5616028092685318401
+      Attack_magic_34: 722138863163110661
+      Attack_magic_35: -179463466023179426
+      Attack_magic_36: -6367645470753355144
+      Attack_magic_37: -5389140400061539099
+      Attack_magic_38: -1164436267358276531
+      Attack_magic_39: -3013346883555441684
+      Attack_magic_4: 5336673836078885478
+      Attack_magic_40: -7989266559926003969
+      Attack_magic_41: 9122057418046214132
+      Attack_magic_42: -793960825120630149
+      Attack_magic_43: 6442385034434000013
+      Attack_magic_44: -5341279202407777631
+      Attack_magic_45: 8506463673572691319
+      Attack_magic_46: 2836872815230355359
+      Attack_magic_47: -4371938644444174539
+      Attack_magic_48: 2062683491700056487
+      Attack_magic_49: 8547462699781336295
+      Attack_magic_5: -6397268414276541412
+      Attack_magic_50: 1338366392664521832
+      Attack_magic_51: -4858735469083149470
+      Attack_magic_52: -2219561893863665226
+      Attack_magic_53: 1656907486765296726
+      Attack_magic_54: 6420703724543037122
+      Attack_magic_55: 5298799226512291747
+      Attack_magic_56: 238428639475839200
+      Attack_magic_57: 8465606123058112930
+      Attack_magic_6: 8620549616513542535
+      Attack_magic_7: -2117403582573335523
+      Attack_magic_8: -5916338482990039188
+      Attack_magic_9: -2245070218136689027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

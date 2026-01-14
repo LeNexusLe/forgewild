@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0bed0ec4573244e8d6813221b8f078, type: 3}
+  m_Name: AttackCooldownEpic
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  itemName: -0.5 Attack Cooldown
+  icon: {fileID: 21300000, guid: 76c269c684df3a2408d0c47676b5830a, type: 3}
+  weight: 15
+  rarity: 1
+  statModifiers:
+  - stat: 4
+    value: 0.5
+  specialEffects: []
